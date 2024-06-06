@@ -1,7 +1,7 @@
 # STOR565FinalProject
 
-Spring 2024
 Abusive Tweet Classification Machine Learning NLP Project
+Spring 2024
 
 - Utilized TF-IDF Vectorizer to vectorize tokenized tweets and comments
 - Additionally utilized Word2Vec to generate word embeddings to train the neural network
